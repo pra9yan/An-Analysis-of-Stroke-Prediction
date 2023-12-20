@@ -22,9 +22,7 @@ The goal of this project is to provide insights into stroke prediction through a
 
 The analysis relies on datasets from reputable sources, including:
 
-- [Health Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) - Description of the health-related dataset.
-- [Lifestyle Dataset](#) - Description of the lifestyle-related dataset.
-- ...
+- [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) - Description of the health-related dataset.
 
 Please refer to the respective sources for more information about the datasets used in this analysis.
 
